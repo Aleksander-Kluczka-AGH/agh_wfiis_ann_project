@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 Aleksander Kluczka AGH WFiIS
+Copyright (c) `2023` `vis4rd`, `krystiansledz`, `mirek0707`, `sakor88`
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
